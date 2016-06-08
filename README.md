@@ -1,4 +1,3 @@
-So this is a place for people to create stuff.
 
 MVP: Bob needs to be able to find a  list of schools, to see what goods they have to offer. 
 
