@@ -6,5 +6,6 @@ User Stories
 
 - As a principle I can login and add my schools needs on the site.
 - As a priciple I wanto to search based on what schools are looking for. 
-- As a business I want to send a message to school, I want to see what they can offer.
-- 
+- As a business blah blah blah
+- asasas
+
